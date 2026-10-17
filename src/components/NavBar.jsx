@@ -1,13 +1,13 @@
 import { NavLink } from 'react-router-dom'
 
 const links = [
-  { to: '/', label: '首页' },
-  { to: '/about', label: '关于' },
-  { to: '/team', label: '团队' },
-  { to: '/robot', label: '机器人' },
-  { to: '/schedule', label: '日程' },
-  { to: '/socials', label: '社交' },
-  { to: '/sponsors', label: '赞助商' },
+  { to: '/', label: 'Bubbles' },
+  { to: '/about', label: 'About' },
+  { to: '/team', label: 'Team' },
+  { to: '/robot', label: 'Robot' },
+  { to: '/schedule', label: 'Schedule' },
+  { to: '/socials', label: 'Socials' },
+  { to: '/sponsors', label: 'Sponsors' },
 ]
 
 export default function NavBar() {
