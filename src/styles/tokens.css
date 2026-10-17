@@ -1,0 +1,21 @@
+:root {
+  --color-bg: #0f1115;
+  --color-surface: #1a1d23;
+  --color-text: #e6e8eb;
+  --color-text-muted: #9aa3ad;
+  --color-accent: #3b82f6;
+  --color-accent-hover: #2563eb;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 40px;
+
+  --shadow-card: 0 4px 24px rgba(0, 0, 0, 0.3);
+  --font-sans: system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
